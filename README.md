@@ -1,4 +1,4 @@
-I have provided the dataset below to perform the car price prediction program.
+I have provided the dataset below to perform the car price prediction model.
 
 Dataset Link - https://www.kaggle.com/datasets/toramky/automobile-dataset
 
